@@ -1,0 +1,7 @@
+D|Deceased
+H|Head
+P|Aged parent living home
+U|Unknown 
+W|Spouse
+Y|Young adult (Age 19-25)
+null|No match
