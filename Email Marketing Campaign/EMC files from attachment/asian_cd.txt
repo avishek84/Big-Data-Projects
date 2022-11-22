@@ -1,0 +1,7 @@
+00|Unknown
+05|Chinese
+24|Japanese
+25|Korean
+47|Vietnamese
+48|Asian
+null|No match
